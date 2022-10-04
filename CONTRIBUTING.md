@@ -1,37 +1,79 @@
 ---
 name: Campaign Request
-about: Use this template to request a StackUp Campaign
-title: ''
-labels: ''
-assignees: ''
+about: Request a StackUp Campaign by zeus13
+title: 'Introduction to Android Mobile Devices Development'
+labels: 'Development, Mobile, Android, Kotlin'
 
 ---
 
 # Name of Proposer
-*Enter your StackUp username here.*
+zeus13
 
 # Campaign Name
-*Tell us what you campaign is called.*
+Introduction to Android Mobile Devices Development
 
 ## Campaign Description
-*Write a 3-5 sentence description of the campaign you are proposing. Your description should cover the following:
-- What the campaign aims to teach
-- Who the campaign is for (e.g. beginners, advanced users)
-- Why Stackies should learn this topic*
+Modern developers must have knowledge about development of mobile applications. And we are going to start with the most standard open platform, Android.
+Training for the generation of mobile applications in Kotlin language, using the Android Studio development environment, following modern design patterns, and publication of native applications for Android mobile devices.
+Starter campaign for stackies with some development skills and basic programming knowledges.
 
 ## Number of Quests
-*List the number of quests you think this campaign should have. Proposed campaigns should have at least 2 quests.*
+1. Concepts and skills that will be acquired
+2. Launching a new Kotlin project
+3. Customized Views
+4. Model - View. MVVM architecture
+
 
 ## Quest 1 Summary
-*Write a 1-3 sentence description of the first quest. Your description should cover the following:
-- What the quest will focus on teaching
-- What resources you will use (e.g. will you use a practice dataset? Code chunks? Capstone project?)
-- Why this is useful for Stackies*
+Incorporate the technologies, concepts and skills that will be acquired throughout the development of the course to ensure proper coding and deployment of Kotlin applications for Android mobile devices.
 
 ## Quest 1 Learning Objectives
-*In point form, tell us what Stackies will learn in this quest.*
+- Understanding of how to write a complex Android application
+- Understanding how views work in Android
+- Show modern design patterns, such as the Model-View-ViewModel (MVVM) architecture
+- Learn about Kotlin and its powerful features for Android development
 
 ## Quest 1 Deliverables
-*What are the deliverables of this quest?*
+Quiz
 
-**IMPORTANT:** You should have **Summary**, **Learning Objectives** and **Deliverables** sections for each quest you are suggesting. For example, if you have 3 quests, you should fill in this information for Quest 1 in the template above, then copy and paste the headings and fill up the information for Quest 2 and Quest 3 also.
+
+## Quest 2 Summary
+Train for the immediate start of Kotlin code development, in addition to its implementation in the Android Studio development environment.
+
+## Quest 2 Learning Objectives
+- Installing Android Studio with Kotlin
+- Creation of data models in Kotlin
+- Conversion of navigation to Kotlin (Migration to the Navigation component)
+- Fragments in Kotlin and their creation in the Navigation component
+- RecyclerView in Kotlin and dynamic list creation
+- RecyclerAdapter in Kotlin. Refactoring
+
+## Quest 2 Deliverables
+Capture from installed enviroment
+
+
+## Quest 3 Summary
+Continue to study the advanced concepts of the Kotlin language, in order to cover the creation of custom views to enable the greatest efficiency in the use of, for example, the CPU and memory of the machine used in the development and implementation of the developed code.
+
+## Quest 3 Learning Objectives
+- Introduction to view management
+- Creating a custom view in Java
+- Custom view connection to Kotlin
+- Nesting and hierarchy in views
+
+## Quest 3 Deliverables
+Scripted exercise to consolidate the student's training
+
+
+## Quest 4 Summary
+Study the model or pattern of software architecture, model-view-view model (in English, model-view-viewmodel, abbreviated MVVM), which is characterized by its current validity in the software development industry and its ability to decouple the user interface from the application logic.
+
+## Quest 4 Learning Objectives
+- Introduction to the MVVM architecture model
+- Creation of a view model using Arch components (Architecture Components)
+- Management of user events with contracts (Contracts)
+- Use of interfaces (Interface) to create contracts
+- Linking the view and the model
+
+## Quest 4 Deliverables
+Creation of "Barebone" models in Kotlin
